@@ -25,6 +25,25 @@ Jones VG, Mills M, Suarez D, et al. COVID-19 and Kawasaki disease: novel virus a
 
 ---
 
+Report Mainz, starting 4:50 - 6:10, infection risks while flying (GERMAN)
+
+Short: A simulation during flight, shows the spread of particles when coughing. Dr. Qingyan Chen from Purdue University who is doing research onto building systems to prevent such, said: flying is a risk, distance is too low. The middle seat should be free or, passengers shall wear an FFP2 mask.
+
+Visualisation of how tiny droplets from a single cough can flow through the cabin of a Boeing 767.
+by Purdue University
+
+Inhalation of expiratory droplets in aircraft cabins, Gupta, Lin & Chen (2011)
+[https://engineering.purdue.edu/~yanchen/paper/2011-3.pdf](https://engineering.purdue.edu/~yanchen/paper/2011-3.pdf)
+
+Dr. Chen's research to prevent such (however, not realised yet): Investigating the Impact of Gaspers on Cabin Air Quality in Commercial Airliners with a Hybrid Turbulence Model, You et al. (2017)
+
+[https://engineering.purdue.edu/~yanchen/paper/2017-1.pdf](https://engineering.purdue.edu/~yanchen/paper/2017-1.pdf)
+
+
+
+
+---
+
 #### Superspreading
 
 2020-05-16
